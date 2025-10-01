@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm @Krishn-PratapPr<br>- 🔭 Pursuing Computer Science Engineering.<br>- 📚 I'm currently learning Backend Development.<br>-  📫How to reach me : <a href="https://www.linkedin.com/in/krishn-pratap-singh" target="_blank">
+<p align="left">I'm @Krishn-PratapPr<br>- 🔭 Pursuing Computer Science Engineering.<br>- 📚 I'm currently learning Full stack web Development.<br>-  📫How to reach me : <a href="https://www.linkedin.com/in/krishn-pratap-singh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a></p>
 
