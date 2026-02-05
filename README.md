@@ -1,71 +1,75 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Krishn-PratapPr.Krishn-PratapPr&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Krishn-PratapPr.Krishn-PratapPr" />
 </div>
 
-###
+<h1 align="center">Hey there 👋, I'm Krishn Pratap Singh</h1>
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer</h3>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👩‍💻 About Me
 
-###
-
-<p align="left">I'm @Krishn-PratapPr<br>- 🔭 Pursuing Computer Science Engineering.<br>- 📚 I'm currently learning Full stack web Development.<br>-  📫How to reach me : <a href="https://www.linkedin.com/in/krishn-pratap-singh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a></p>
-
-###
-
-<div align="center">  <h3 align="left"> 🌐Socials </h3>
+- 🎓 Pursuing **Computer Science Engineering**
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Interested in **Web Development, Databases & Problem Solving**
+- 📫 Reach me on  
   <a href="https://www.linkedin.com/in/krishn-pratap-singh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
- 
-</div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🌐 Socials
 
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishn-pratap-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+---
 
-###
+## 🛠 Languages & Tools
 
-<h3 align="left">🔥   My Stats :</h3>
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
 
-###
+### 🌐 Web Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishn-PratapPr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 🗄 Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishn-PratapPr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishn-PratapPr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishn-PratapPr&theme=dark" height="200"/>
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishn-PratapPr&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishn-PratapPr&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
+</div>
+
+---
+
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
