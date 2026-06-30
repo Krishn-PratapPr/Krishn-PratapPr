@@ -5,6 +5,12 @@
 <h1 align="center">Hey 👋 I'm Krishn Pratap Singh</h1>
 <h3 align="center">CSE Student | DSA Learner | Full Stack Web Developer | Cybersecurity Enthusiast</h3>
 
+<div align="center">
+  <a href="https://krishnpratapsingh.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-krishnpratapsingh.dev-2EA44F?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ## 👩‍💻 About Me
@@ -37,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </p>
 
 ### 🗄 Databases & Tools
@@ -46,9 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
+### 🔌 IoT & Embedded
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+</p>
+
 ### 🔐 Cybersecurity Skills
 - 🕵️ Digital Forensics & Email Header Analysis
-- 🛡️ WiFi Penetration Testing fundamentals
 - 🐧 Kali Linux & Ubuntu (security-focused environments)
 - 🧅 Tor / Whonix for investigative anonymity
 - ☁️ Isolated cloud/RDP environments for malware analysis
