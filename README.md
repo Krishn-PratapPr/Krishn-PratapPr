@@ -55,7 +55,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishn-PratapPr&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishn-PratapPr&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
 </div>
 
