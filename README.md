@@ -5,13 +5,13 @@
 <h1 align="center">Hey 👋 I'm Krishn Pratap Singh</h1>
 <div align="center">
   <a href="https://krishnpratapsingh.dev/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=500&color=2EA44F&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;DSA+Learner;CSE+Student" alt="Typing SVG" />
+    <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;DSA+Learner;CSE+Student&animation=typing&color=F78166&size=24&pause=500" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://krishnpratapsingh.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-krishnpratapsingh.dev-2EA44F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-krishnpratapsingh.dev-F78166?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
