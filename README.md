@@ -3,7 +3,11 @@
 </div>
 
 <h1 align="center">Hey 👋 I'm Krishn Pratap Singh</h1>
-<h3 align="center">CSE Student | DSA Learner | Full Stack Web Developer | Cybersecurity Enthusiast</h3>
+<div align="center">
+  <a href="https://krishnpratapsingh.dev/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;DSA+Learner;CSE+Student" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://krishnpratapsingh.dev/" target="_blank">
